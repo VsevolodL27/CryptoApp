@@ -6,10 +6,8 @@ import android.os.Build
 import android.os.Bundle
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
-import androidx.lifecycle.ViewModelProvider
 import com.example.cryptoapp.R
 import com.example.cryptoapp.databinding.ActivityCoinDetailBinding
-import com.squareup.picasso.Picasso
 
 class CoinDetailActivity : AppCompatActivity() {
 

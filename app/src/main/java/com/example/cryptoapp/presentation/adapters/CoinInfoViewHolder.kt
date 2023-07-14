@@ -6,4 +6,4 @@ import com.example.cryptoapp.databinding.ItemCoinInfoBinding
 
 class CoinInfoViewHolder(
     val binding: ItemCoinInfoBinding
-): RecyclerView.ViewHolder(binding.root)
+) : RecyclerView.ViewHolder(binding.root)
